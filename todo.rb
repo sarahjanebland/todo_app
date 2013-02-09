@@ -14,7 +14,7 @@ class List
   def initialize
     @tasks = []
    end   
-end 
+end
 
 
 class FileParser
