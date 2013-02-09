@@ -8,14 +8,6 @@ class Task
 end
 
 
-class List
-  attr_accessor :tasks
-  
-  def initialize
-    @tasks = []
-   end   
-end
-
 
 class FileParser
   attr_accessor :list 
